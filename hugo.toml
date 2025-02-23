@@ -1,0 +1,4 @@
+baseURL = 'https://aozhang.blog/'
+languageCode = 'en-us'
+title = 'Follow the Skyline'
+theme = 'ananke'
