@@ -4,10 +4,7 @@ author: Ao Zhang
 type: page
 date: 2018-03-12T04:12:45+00:00
 featured_image: /wp-content/uploads/2021/12/img_4986-2-1-1-scaled.jpg
-sharing_disabled:
-  - 'a:1:{i:0;i:0;}'
-switch_like_status:
-  - 'a:1:{i:0;i:0;}'
+draft: true 
 
 ---
 &nbsp;
