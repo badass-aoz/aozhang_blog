@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aozhang.blog/</loc>
-    <lastmod>2025-02-23T08:19:47-08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://aozhang.blog/posts/</loc>
-    <lastmod>2025-02-23T08:19:47-08:00</lastmod>
-  </url><url>
-    <loc>https://aozhang.blog/categories/</loc>
-  </url><url>
-    <loc>https://aozhang.blog/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
